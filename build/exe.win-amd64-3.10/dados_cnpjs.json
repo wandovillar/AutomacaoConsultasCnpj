@@ -1,0 +1,2637 @@
+[
+    {
+        "cnpj_raiz": "12091809",
+        "razao_social": "3R PETROLEUM OLEO E GAS S.A.",
+        "capital_social": "5054405579.27",
+        "responsavel_federativo": "",
+        "atualizado_em": "2023-08-12T03:00:00.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": {
+            "id": 10,
+            "descricao": "Diretor "
+        },
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***638907**",
+                "nome": "CARLOS ALBERTO PEREIRA DE OLIVEIRA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-01-09",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "61 a 70 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***604298**",
+                "nome": "GUILHERME AFFONSO FERREIRA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-10-07",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "71 a 80 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***421500**",
+                "nome": "HARLEY LORENTZ SCARDOELLI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-05-06",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***718240**",
+                "nome": "RICHARD CHAGAS GERDAU JOHANNPETER",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-11-01",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***563736**",
+                "nome": "MAURICIO ANTONIO COSTA DINIZ",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-01-24",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "61 a 70 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***724768**",
+                "nome": "MATHEUS DIAS DE SIQUEIRA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-01-24",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 16,
+                    "descricao": "Presidente "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***112157**",
+                "nome": "RODRIGO PIZARRO LAVALLE DA SILVA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-10-09",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***047748**",
+                "nome": "ANDRE DE CAMARGO BARTELLE",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-11-01",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***389097**",
+                "nome": "ROBERTO DA CUNHA CASTELLO BRANCO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-05-06",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "71 a 80 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "12091809000155",
+            "atividades_secundarias": [
+                {
+                    "id": "6462000",
+                    "secao": "K",
+                    "divisao": "64",
+                    "grupo": "64.6",
+                    "classe": "64.62-0",
+                    "subclasse": "6462-0/00",
+                    "descricao": "Holdings de instituições não financeiras"
+                }
+            ],
+            "cnpj_raiz": "12091809",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "55",
+            "tipo": "Matriz",
+            "nome_fantasia": null,
+            "situacao_cadastral": "Ativa",
+            "data_situacao_cadastral": "2010-06-17",
+            "data_inicio_atividade": "2010-06-17",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "PRAIA",
+            "logradouro": "BOTAFOGO",
+            "numero": "186",
+            "complemento": "SALAS 1.301 1.401 E       1.501",
+            "bairro": "BOTAFOGO",
+            "cep": "22250145",
+            "ddd1": "21",
+            "telefone1": "34755555",
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": "21",
+            "fax": "26172184",
+            "email": "financeiro@3rpetroleum.com.br",
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "0600001",
+                "secao": "B",
+                "divisao": "06",
+                "grupo": "06.0",
+                "classe": "06.00-0",
+                "subclasse": "0600-0/01",
+                "descricao": "Extração de petróleo e gás natural"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 19,
+                "nome": "Rio de Janeiro",
+                "sigla": "RJ",
+                "ibge_id": 33
+            },
+            "cidade": {
+                "id": 3243,
+                "nome": "Rio de Janeiro",
+                "ibge_id": 3304557,
+                "siafi_id": "6001"
+            },
+            "motivo_situacao_cadastral": null,
+            "inscricoes_estaduais": [
+                {
+                    "inscricao_estadual": "79425117",
+                    "ativo": false,
+                    "atualizado_em": "2023-07-19T17:07:10.787Z",
+                    "estado": {
+                        "id": 19,
+                        "nome": "Rio de Janeiro",
+                        "sigla": "RJ",
+                        "ibge_id": 33
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cnpj_raiz": "01851771",
+        "razao_social": "524 PARTICIPACOES S/A",
+        "capital_social": "1135904.66",
+        "responsavel_federativo": "",
+        "atualizado_em": "2023-08-12T03:00:00.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": {
+            "id": 10,
+            "descricao": "Diretor "
+        },
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***976908**",
+                "nome": "NORBERTO AGUIAR TOMAZ",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-05-09",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "71 a 80 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***969827**",
+                "nome": "DIOGO ALEXANDRE DE MELO BAHIA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-05-09",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "01851771000155",
+            "atividades_secundarias": [],
+            "cnpj_raiz": "01851771",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "55",
+            "tipo": "Matriz",
+            "nome_fantasia": null,
+            "situacao_cadastral": "Ativa",
+            "data_situacao_cadastral": "2003-10-04",
+            "data_inicio_atividade": "1997-04-24",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "AVENIDA",
+            "logradouro": "PRESIDENTE ANTONIO CARLOS",
+            "numero": "00051",
+            "complemento": "SAL 1001",
+            "bairro": "CENTRO",
+            "cep": "20020010",
+            "ddd1": "21",
+            "telefone1": "38043700",
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": null,
+            "fax": null,
+            "email": "gr.societario@opportunity.com.br",
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "6462000",
+                "secao": "K",
+                "divisao": "64",
+                "grupo": "64.6",
+                "classe": "64.62-0",
+                "subclasse": "6462-0/00",
+                "descricao": "Holdings de instituições não financeiras"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 19,
+                "nome": "Rio de Janeiro",
+                "sigla": "RJ",
+                "ibge_id": 33
+            },
+            "cidade": {
+                "id": 3243,
+                "nome": "Rio de Janeiro",
+                "ibge_id": 3304557,
+                "siafi_id": "6001"
+            },
+            "motivo_situacao_cadastral": null,
+            "inscricoes_estaduais": []
+        }
+    },
+    {
+        "cnpj_raiz": "28195667",
+        "razao_social": "BANCO ABC BRASIL S.A.",
+        "capital_social": "4315017448.93",
+        "responsavel_federativo": "",
+        "atualizado_em": "2023-08-12T03:00:00.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": {
+            "id": 16,
+            "descricao": "Presidente "
+        },
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***330458**",
+                "nome": "ADRIANA FERNANDES PERES",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-08-22",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***895488**",
+                "nome": "MARCOS CHADALAKIAN",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-01-12",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***871248**",
+                "nome": "SERGIO RICARDO BOREJO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2007-11-09",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***568808**",
+                "nome": "PAULO ROMAGNOLI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2011-06-29",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "61 a 70 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***281067**",
+                "nome": "ANTONIO SANCHEZ JUNIOR",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2013-10-22",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***067328**",
+                "nome": "RICARDO GENTILE ROCHA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2014-08-18",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***811389**",
+                "nome": "GUSTAVO HENRIQUE TAVARES SILVA BELLON",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2014-11-28",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***794528**",
+                "nome": "DANIEL CREDIDIO BRANDAO BARBOSA DE OLIVEIRA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2016-11-07",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***868651**",
+                "nome": "GUSTAVO MACHADO VIEIRA DE ALMEIDA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-09-13",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***754378**",
+                "nome": "RODRIGO ANDREOS CORDEIRO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-09-13",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***940418**",
+                "nome": "EVERTHON NOVAES VIEIRA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-09-29",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***798920**",
+                "nome": "RODRIGO RIBEIRO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2021-11-03",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***677697**",
+                "nome": "JOAO MARCOS PEQUENO DE BIASE",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-03-15",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***064018**",
+                "nome": "LEOPOLDO MARTINEZ CRUZ",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-07-03",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***990838**",
+                "nome": "ANTONIO JOSE NICOLINI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2011-06-29",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***127578**",
+                "nome": "RENATO PASQUALIN SOBRINHO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2012-02-27",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "61 a 70 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***389888**",
+                "nome": "FELIPE SENE TAMBURUS",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-08-27",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***357500**",
+                "nome": "CESAR VALDEZ MINDOF",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2016-11-07",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***915358**",
+                "nome": "ALEXANDRE YOSHIAKI SINZATO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2011-06-29",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***178428**",
+                "nome": "SERGIO LULIA JACOB",
+                "tipo": "Pessoa Física",
+                "data_entrada": "1997-09-09",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 16,
+                    "descricao": "Presidente "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***792428**",
+                "nome": "RICARDO MIGUEL DE MOURA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2021-08-25",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***386176**",
+                "nome": "LIVIA SOUSA SANTANA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-08-27",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***573158**",
+                "nome": "CARLOS AUGUSTO DEL MONACO DE PAULA SANTOS E SILVA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-04-08",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***672557**",
+                "nome": "RODRIGO SOTERO GALVAO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2018-07-16",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***347098**",
+                "nome": "FERNANDO VAZQUEZ FERNANDEZ",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2016-11-07",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***724178**",
+                "nome": "RODRIGO MONTEMOR",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2017-04-20",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***372868**",
+                "nome": "EDGARD DE SOUZA TOLEDO NETO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-04-08",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***198128**",
+                "nome": "MARCO ANTONIO ASCOLI MASTROENI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-05-29",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***856518**",
+                "nome": "JOSE EDUARDO CINTRA LALONI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "1991-07-17",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "28195667000106",
+            "atividades_secundarias": [],
+            "cnpj_raiz": "28195667",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "06",
+            "tipo": "Matriz",
+            "nome_fantasia": null,
+            "situacao_cadastral": "Ativa",
+            "data_situacao_cadastral": "2005-11-03",
+            "data_inicio_atividade": "1983-12-30",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "AVENIDA",
+            "logradouro": "CIDADE JARDIM",
+            "numero": "803",
+            "complemento": "ANDAR: 2",
+            "bairro": "ITAIM BIBI",
+            "cep": "01453000",
+            "ddd1": "11",
+            "telefone1": "31702000",
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": "11",
+            "fax": "31702064",
+            "email": null,
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "6422100",
+                "secao": "K",
+                "divisao": "64",
+                "grupo": "64.2",
+                "classe": "64.22-1",
+                "subclasse": "6422-1/00",
+                "descricao": "Bancos múltiplos, com carteira comercial"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 26,
+                "nome": "São Paulo",
+                "sigla": "SP",
+                "ibge_id": 35
+            },
+            "cidade": {
+                "id": 3832,
+                "nome": "São Paulo",
+                "ibge_id": 3550308,
+                "siafi_id": "7107"
+            },
+            "motivo_situacao_cadastral": null,
+            "inscricoes_estaduais": [
+                {
+                    "inscricao_estadual": "83957492",
+                    "ativo": false,
+                    "atualizado_em": "2023-08-27T04:15:38.636Z",
+                    "estado": {
+                        "id": 19,
+                        "nome": "Rio de Janeiro",
+                        "sigla": "RJ",
+                        "ibge_id": 33
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cnpj_raiz": "82643537",
+        "razao_social": "ELECTRO ACO ALTONA S A",
+        "capital_social": "57184079.84",
+        "responsavel_federativo": "",
+        "atualizado_em": "2023-08-12T03:00:00.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": {
+            "id": 10,
+            "descricao": "Diretor "
+        },
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***732419**",
+                "nome": "FERNANDO VETTER",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-05-19",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***685319**",
+                "nome": "EDUARDO VETTER",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-06-03",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***736679**",
+                "nome": "CACIDIO GIRARDI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2002-06-13",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "71 a 80 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***791799**",
+                "nome": "CARMEN VETTER WERNER",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2017-09-26",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "71 a 80 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "82643537000134",
+            "atividades_secundarias": [],
+            "cnpj_raiz": "82643537",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "34",
+            "tipo": "Matriz",
+            "nome_fantasia": null,
+            "situacao_cadastral": "Ativa",
+            "data_situacao_cadastral": "2005-11-03",
+            "data_inicio_atividade": "1971-05-07",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "RUA",
+            "logradouro": "ENG PAUL WERNER",
+            "numero": "925",
+            "complemento": null,
+            "bairro": "ITOUPAVA SECA",
+            "cep": "89030900",
+            "ddd1": null,
+            "telefone1": null,
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": null,
+            "fax": null,
+            "email": null,
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "2451200",
+                "secao": "C",
+                "divisao": "24",
+                "grupo": "24.5",
+                "classe": "24.51-2",
+                "subclasse": "2451-2/00",
+                "descricao": "Fundição de ferro e aço"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 24,
+                "nome": "Santa Catarina",
+                "sigla": "SC",
+                "ibge_id": 42
+            },
+            "cidade": {
+                "id": 4350,
+                "nome": "Blumenau",
+                "ibge_id": 4202404,
+                "siafi_id": "8047"
+            },
+            "motivo_situacao_cadastral": null,
+            "inscricoes_estaduais": [
+                {
+                    "inscricao_estadual": "250043106",
+                    "ativo": true,
+                    "atualizado_em": "2023-09-04T03:00:00.000Z",
+                    "estado": {
+                        "id": 24,
+                        "nome": "Santa Catarina",
+                        "sigla": "SC",
+                        "ibge_id": 42
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cnpj_raiz": "10345009",
+        "razao_social": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A.",
+        "capital_social": "33860228.84",
+        "responsavel_federativo": "",
+        "atualizado_em": "2023-08-12T03:00:00.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": {
+            "id": 10,
+            "descricao": "Diretor "
+        },
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***669730**",
+                "nome": "CAROLINE SCHIAFINO ANDREIS",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-04-17",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "10345009000198",
+            "atividades_secundarias": [
+                {
+                    "id": "4773300",
+                    "secao": "G",
+                    "divisao": "47",
+                    "grupo": "47.7",
+                    "classe": "47.73-3",
+                    "subclasse": "4773-3/00",
+                    "descricao": "Comércio varejista de artigos médicos e ortopédicos"
+                },
+                {
+                    "id": "6463800",
+                    "secao": "K",
+                    "divisao": "64",
+                    "grupo": "64.6",
+                    "classe": "64.63-8",
+                    "subclasse": "6463-8/00",
+                    "descricao": "Outras sociedades de participação, exceto holdings"
+                },
+                {
+                    "id": "7490199",
+                    "secao": "M",
+                    "divisao": "74",
+                    "grupo": "74.9",
+                    "classe": "74.90-1",
+                    "subclasse": "7490-1/99",
+                    "descricao": "Outras atividades profissionais, científicas e técnicas não especificadas anteriormente"
+                },
+                {
+                    "id": "7740300",
+                    "secao": "N",
+                    "divisao": "77",
+                    "grupo": "77.4",
+                    "classe": "77.40-3",
+                    "subclasse": "7740-3/00",
+                    "descricao": "Gestão de ativos intangíveis não financeiros"
+                }
+            ],
+            "cnpj_raiz": "10345009",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "98",
+            "tipo": "Matriz",
+            "nome_fantasia": "ADVANCED DIGITAL HEALTH",
+            "situacao_cadastral": "Inapta",
+            "data_situacao_cadastral": "2022-06-07",
+            "data_inicio_atividade": "2008-08-22",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "AVENIDA",
+            "logradouro": "DAS NACOES UNIDAS",
+            "numero": "8501",
+            "complemento": "17 ANDAR",
+            "bairro": "PINHEIROS",
+            "cep": "05425070",
+            "ddd1": "11",
+            "telefone1": "34346578",
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": "41",
+            "fax": "33207373",
+            "email": "dri@advanced-dh.com",
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "8690999",
+                "secao": "Q",
+                "divisao": "86",
+                "grupo": "86.9",
+                "classe": "86.90-9",
+                "subclasse": "8690-9/99",
+                "descricao": "Outras atividades de atenção à saúde humana não especificadas anteriormente"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 26,
+                "nome": "São Paulo",
+                "sigla": "SP",
+                "ibge_id": 35
+            },
+            "cidade": {
+                "id": 3832,
+                "nome": "São Paulo",
+                "ibge_id": 3550308,
+                "siafi_id": "7107"
+            },
+            "motivo_situacao_cadastral": {
+                "id": 63,
+                "descricao": "Omissão De Declarações"
+            },
+            "inscricoes_estaduais": [
+                {
+                    "inscricao_estadual": "140684295118",
+                    "ativo": false,
+                    "atualizado_em": "2023-09-01T03:00:00.000Z",
+                    "estado": {
+                        "id": 26,
+                        "nome": "São Paulo",
+                        "sigla": "SP",
+                        "ibge_id": 35
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cnpj_raiz": "12528708",
+        "razao_social": "AERIS INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA GERACAO DE ENERGIA S.A",
+        "capital_social": "871975004.83",
+        "responsavel_federativo": null,
+        "atualizado_em": "2023-08-24T15:55:51.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": null,
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***690916**",
+                "nome": "CASSIO CANCELA E PENNA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2010-09-10",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***567238**",
+                "nome": "ALEXANDRE SARNES NEGRAO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-01-23",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 16,
+                    "descricao": "Presidente "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***161777**",
+                "nome": "MARCELO COSTA NASSER",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-02-17",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***575058**",
+                "nome": "GISELA SARNES NEGRAO ASSIS",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-01-23",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***538388**",
+                "nome": "VITOR DE ARAUJO SANTOS",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2010-09-10",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***301408**",
+                "nome": "BRUNO LOLLI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2010-09-10",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***633878**",
+                "nome": "DANIEL HENRIQUE DA COSTA MELLO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2010-09-10",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***600158**",
+                "nome": "LUIZ HENRIQUE DEL CISTIA THONON",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2019-05-03",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "12528708000107",
+            "atividades_secundarias": [
+                {
+                    "id": "2319200",
+                    "secao": "C",
+                    "divisao": "23",
+                    "grupo": "23.1",
+                    "classe": "23.19-2",
+                    "subclasse": "2319-2/00",
+                    "descricao": "Fabricação de artigos de vidro"
+                },
+                {
+                    "id": "2822402",
+                    "secao": "C",
+                    "divisao": "28",
+                    "grupo": "28.2",
+                    "classe": "28.22-4",
+                    "subclasse": "2822-4/02",
+                    "descricao": "Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios"
+                },
+                {
+                    "id": "3319800",
+                    "secao": "C",
+                    "divisao": "33",
+                    "grupo": "33.1",
+                    "classe": "33.19-8",
+                    "subclasse": "3319-8/00",
+                    "descricao": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+                },
+                {
+                    "id": "4669999",
+                    "secao": "G",
+                    "divisao": "46",
+                    "grupo": "46.6",
+                    "classe": "46.69-9",
+                    "subclasse": "4669-9/99",
+                    "descricao": "Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças"
+                },
+                {
+                    "id": "5212500",
+                    "secao": "H",
+                    "divisao": "52",
+                    "grupo": "52.1",
+                    "classe": "52.12-5",
+                    "subclasse": "5212-5/00",
+                    "descricao": "Carga e descarga"
+                },
+                {
+                    "id": "7112000",
+                    "secao": "M",
+                    "divisao": "71",
+                    "grupo": "71.1",
+                    "classe": "71.12-0",
+                    "subclasse": "7112-0/00",
+                    "descricao": "Serviços de engenharia"
+                }
+            ],
+            "cnpj_raiz": "12528708",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "07",
+            "tipo": "Matriz",
+            "nome_fantasia": null,
+            "situacao_cadastral": "Ativa",
+            "data_situacao_cadastral": "2010-09-10",
+            "data_inicio_atividade": "2010-09-10",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "RODOVIA",
+            "logradouro": "CE 155",
+            "numero": "S/N",
+            "complemento": "KM    02",
+            "bairro": "COMPLEXO INDUSTRIAL E PORTUARIO DO PECEM",
+            "cep": "61680000",
+            "ddd1": "85",
+            "telefone1": "33045858",
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": null,
+            "fax": null,
+            "email": null,
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "2710401",
+                "secao": "C",
+                "divisao": "27",
+                "grupo": "27.1",
+                "classe": "27.10-4",
+                "subclasse": "2710-4/01",
+                "descricao": "Fabricação de geradores de corrente contínua e alternada, peças e acessórios"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 6,
+                "nome": "Ceará",
+                "sigla": "CE",
+                "ibge_id": 23
+            },
+            "cidade": {
+                "id": 935,
+                "nome": "Caucaia",
+                "ibge_id": 2303709,
+                "siafi_id": "1373"
+            },
+            "motivo_situacao_cadastral": null,
+            "inscricoes_estaduais": [
+                {
+                    "inscricao_estadual": "064119190",
+                    "ativo": true,
+                    "atualizado_em": "2023-08-28T13:53:07.660Z",
+                    "estado": {
+                        "id": 6,
+                        "nome": "Ceará",
+                        "sigla": "CE",
+                        "ibge_id": 23
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cnpj_raiz": "37663076",
+        "razao_social": "AES BRASIL ENERGIA S.A.",
+        "capital_social": "2196957866.36",
+        "responsavel_federativo": "",
+        "atualizado_em": "2023-08-12T03:00:00.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": {
+            "id": 10,
+            "descricao": "Diretor "
+        },
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***628278**",
+                "nome": "ROGERIO PEREIRA JORGE",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-01-05",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 16,
+                    "descricao": "Presidente "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***285138**",
+                "nome": "CARLOS RENATO XAVIER POMPERMAIER",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-12-04",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***582588**",
+                "nome": "JOSE RICARDO ELBEL SIMAO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-07-28",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***561198**",
+                "nome": "FRANCISCO JOSE MORANDI LOPEZ",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-12-04",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***181508**",
+                "nome": "FRANKLIN LEE FEDER",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-12-04",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "71 a 80 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***937750**",
+                "nome": "CHARLES LENZI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-12-04",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "61 a 70 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***952628**",
+                "nome": "DENISE DUARTE DAMIANI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2020-12-04",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "61 a 70 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "37663076000107",
+            "atividades_secundarias": [],
+            "cnpj_raiz": "37663076",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "07",
+            "tipo": "Matriz",
+            "nome_fantasia": null,
+            "situacao_cadastral": "Ativa",
+            "data_situacao_cadastral": "2020-07-09",
+            "data_inicio_atividade": "2020-07-09",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "AVENIDA",
+            "logradouro": "ENG LUIZ CARLOS BERRINI",
+            "numero": "1376",
+            "complemento": "ANDAR 12                  SALA  DIGITALIZACAO",
+            "bairro": "CIDADE MONCOES",
+            "cep": "04571936",
+            "ddd1": "14",
+            "telefone1": "31033400",
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": null,
+            "fax": null,
+            "email": "tributario-csc@aes.com",
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "6462000",
+                "secao": "K",
+                "divisao": "64",
+                "grupo": "64.6",
+                "classe": "64.62-0",
+                "subclasse": "6462-0/00",
+                "descricao": "Holdings de instituições não financeiras"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 26,
+                "nome": "São Paulo",
+                "sigla": "SP",
+                "ibge_id": 35
+            },
+            "cidade": {
+                "id": 3832,
+                "nome": "São Paulo",
+                "ibge_id": 3550308,
+                "siafi_id": "7107"
+            },
+            "motivo_situacao_cadastral": null,
+            "inscricoes_estaduais": []
+        }
+    },
+    {
+        "cnpj_raiz": "00194724",
+        "razao_social": "AES BRASIL OPERACOES S.A.",
+        "capital_social": "1799261667.36",
+        "responsavel_federativo": "",
+        "atualizado_em": "2023-08-12T03:00:00.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": {
+            "id": 10,
+            "descricao": "Diretor "
+        },
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***628278**",
+                "nome": "ROGERIO PEREIRA JORGE",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2023-07-05",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***285138**",
+                "nome": "CARLOS RENATO XAVIER POMPERMAIER",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2021-07-22",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "00194724000113",
+            "atividades_secundarias": [
+                {
+                    "id": "4221902",
+                    "secao": "F",
+                    "divisao": "42",
+                    "grupo": "42.2",
+                    "classe": "42.21-9",
+                    "subclasse": "4221-9/02",
+                    "descricao": "Construção de estações e redes de distribuição de energia elétrica"
+                },
+                {
+                    "id": "4321500",
+                    "secao": "F",
+                    "divisao": "43",
+                    "grupo": "43.2",
+                    "classe": "43.21-5",
+                    "subclasse": "4321-5/00",
+                    "descricao": "Instalação e manutenção elétrica"
+                },
+                {
+                    "id": "4399101",
+                    "secao": "F",
+                    "divisao": "43",
+                    "grupo": "43.9",
+                    "classe": "43.99-1",
+                    "subclasse": "4399-1/01",
+                    "descricao": "Administração de obras"
+                },
+                {
+                    "id": "4789099",
+                    "secao": "G",
+                    "divisao": "47",
+                    "grupo": "47.8",
+                    "classe": "47.89-0",
+                    "subclasse": "4789-0/99",
+                    "descricao": "Comércio varejista de outros produtos não especificados anteriormente"
+                },
+                {
+                    "id": "6462000",
+                    "secao": "K",
+                    "divisao": "64",
+                    "grupo": "64.6",
+                    "classe": "64.62-0",
+                    "subclasse": "6462-0/00",
+                    "descricao": "Holdings de instituições não financeiras"
+                },
+                {
+                    "id": "7112000",
+                    "secao": "M",
+                    "divisao": "71",
+                    "grupo": "71.1",
+                    "classe": "71.12-0",
+                    "subclasse": "7112-0/00",
+                    "descricao": "Serviços de engenharia"
+                },
+                {
+                    "id": "7210000",
+                    "secao": "M",
+                    "divisao": "72",
+                    "grupo": "72.1",
+                    "classe": "72.10-0",
+                    "subclasse": "7210-0/00",
+                    "descricao": "Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+                },
+                {
+                    "id": "7490199",
+                    "secao": "M",
+                    "divisao": "74",
+                    "grupo": "74.9",
+                    "classe": "74.90-1",
+                    "subclasse": "7490-1/99",
+                    "descricao": "Outras atividades profissionais, científicas e técnicas não especificadas anteriormente"
+                },
+                {
+                    "id": "7732201",
+                    "secao": "N",
+                    "divisao": "77",
+                    "grupo": "77.3",
+                    "classe": "77.32-2",
+                    "subclasse": "7732-2/01",
+                    "descricao": "Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes"
+                },
+                {
+                    "id": "7820500",
+                    "secao": "N",
+                    "divisao": "78",
+                    "grupo": "78.2",
+                    "classe": "78.20-5",
+                    "subclasse": "7820-5/00",
+                    "descricao": "Locação de mão de obra temporária"
+                }
+            ],
+            "cnpj_raiz": "00194724",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "13",
+            "tipo": "Matriz",
+            "nome_fantasia": null,
+            "situacao_cadastral": "Ativa",
+            "data_situacao_cadastral": "2003-10-18",
+            "data_inicio_atividade": "1994-09-14",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "RODOVIA",
+            "logradouro": "COMANDANTE JOAO RIBEIRO DE BARROS",
+            "numero": "S/N",
+            "complemento": "KM    KM 343 95           SALA  07",
+            "bairro": "DISTRITO INDUSTRIAL MARCUS VINICIUS FELIZ MACHADO",
+            "cep": "17039800",
+            "ddd1": "14",
+            "telefone1": "31033400",
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": "31",
+            "fax": "32953164",
+            "email": "tributario-csc@aes.com",
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "3511501",
+                "secao": "D",
+                "divisao": "35",
+                "grupo": "35.1",
+                "classe": "35.11-5",
+                "subclasse": "3511-5/01",
+                "descricao": "Geração de energia elétrica"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 26,
+                "nome": "São Paulo",
+                "sigla": "SP",
+                "ibge_id": 35
+            },
+            "cidade": {
+                "id": 3335,
+                "nome": "Bauru",
+                "ibge_id": 3506003,
+                "siafi_id": "6219"
+            },
+            "motivo_situacao_cadastral": null,
+            "inscricoes_estaduais": [
+                {
+                    "inscricao_estadual": "000064270",
+                    "ativo": true,
+                    "atualizado_em": "2022-08-22T03:00:00.000Z",
+                    "estado": {
+                        "id": 8,
+                        "nome": "Espírito Santo",
+                        "sigla": "ES",
+                        "ibge_id": 32
+                    }
+                },
+                {
+                    "inscricao_estadual": "128210737",
+                    "ativo": true,
+                    "atualizado_em": "2023-09-12T04:15:20.208Z",
+                    "estado": {
+                        "id": 10,
+                        "nome": "Maranhão",
+                        "sigla": "MA",
+                        "ibge_id": 21
+                    }
+                },
+                {
+                    "inscricao_estadual": "0040577150014",
+                    "ativo": true,
+                    "atualizado_em": "2023-09-12T04:15:20.208Z",
+                    "estado": {
+                        "id": 11,
+                        "nome": "Minas Gerais",
+                        "sigla": "MG",
+                        "ibge_id": 31
+                    }
+                },
+                {
+                    "inscricao_estadual": "12239645",
+                    "ativo": true,
+                    "atualizado_em": "2023-09-12T04:15:20.208Z",
+                    "estado": {
+                        "id": 19,
+                        "nome": "Rio de Janeiro",
+                        "sigla": "RJ",
+                        "ibge_id": 33
+                    }
+                },
+                {
+                    "inscricao_estadual": "9000059491",
+                    "ativo": true,
+                    "atualizado_em": "2023-09-12T04:15:20.208Z",
+                    "estado": {
+                        "id": 23,
+                        "nome": "Rio Grande do Sul",
+                        "sigla": "RS",
+                        "ibge_id": 43
+                    }
+                },
+                {
+                    "inscricao_estadual": "209927800119",
+                    "ativo": true,
+                    "atualizado_em": "2023-09-12T04:15:20.208Z",
+                    "estado": {
+                        "id": 26,
+                        "nome": "São Paulo",
+                        "sigla": "SP",
+                        "ibge_id": 35
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "cnpj_raiz": "10338320",
+        "razao_social": "AFLUENTE TRANSMISSAO DE ENERGIA ELETRICA S.A.",
+        "capital_social": "63084700.00",
+        "responsavel_federativo": "",
+        "atualizado_em": "2023-08-12T03:00:00.000Z",
+        "porte": {
+            "id": "05",
+            "descricao": "Demais"
+        },
+        "natureza_juridica": {
+            "id": "2046",
+            "descricao": "Sociedade Anônima Aberta"
+        },
+        "qualificacao_do_responsavel": {
+            "id": 10,
+            "descricao": "Diretor "
+        },
+        "socios": [
+            {
+                "cpf_cnpj_socio": "***889418**",
+                "nome": "FABIO DIAS FOLCHETTI",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-05-10",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***021098**",
+                "nome": "LUCIANA MAXIMINO MAIA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-07-13",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***322156**",
+                "nome": "FABIANO UCHOAS RIBEIRO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2021-05-24",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***816768**",
+                "nome": "JULIANO PANSANATO DE SOUZA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-05-10",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "31 a 40 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 8,
+                    "descricao": "Conselheiro de Administração"
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***634518**",
+                "nome": "FABIANO DA ROSA CARVALHO",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2021-07-01",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "51 a 60 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            },
+            {
+                "cpf_cnpj_socio": "***419287**",
+                "nome": "RENATO DE ALMEIDA ROCHA",
+                "tipo": "Pessoa Física",
+                "data_entrada": "2022-05-10",
+                "cpf_representante_legal": "***000000**",
+                "nome_representante": null,
+                "faixa_etaria": "41 a 50 anos",
+                "atualizado_em": "2023-08-12T03:00:00.000Z",
+                "pais_id": "1058",
+                "qualificacao_socio": {
+                    "id": 10,
+                    "descricao": "Diretor "
+                },
+                "qualificacao_representante": null,
+                "pais": {
+                    "id": "1058",
+                    "iso2": "BR",
+                    "iso3": "BRA",
+                    "nome": "Brasil",
+                    "comex_id": "105"
+                }
+            }
+        ],
+        "simples": null,
+        "estabelecimento": {
+            "cnpj": "10338320000100",
+            "atividades_secundarias": [
+                {
+                    "id": "3512300",
+                    "secao": "D",
+                    "divisao": "35",
+                    "grupo": "35.1",
+                    "classe": "35.12-3",
+                    "subclasse": "3512-3/00",
+                    "descricao": "Transmissão de energia elétrica"
+                }
+            ],
+            "cnpj_raiz": "10338320",
+            "cnpj_ordem": "0001",
+            "cnpj_digito_verificador": "00",
+            "tipo": "Matriz",
+            "nome_fantasia": null,
+            "situacao_cadastral": "Ativa",
+            "data_situacao_cadastral": "2008-09-08",
+            "data_inicio_atividade": "2008-09-08",
+            "nome_cidade_exterior": null,
+            "tipo_logradouro": "PRAIA",
+            "logradouro": "DO FLAMENGO",
+            "numero": "78",
+            "complemento": "1 ANDAR (PARTE)",
+            "bairro": "FLAMENGO",
+            "cep": "22210030",
+            "ddd1": "21",
+            "telefone1": "22535252",
+            "ddd2": null,
+            "telefone2": null,
+            "ddd_fax": "21",
+            "fax": "22534242",
+            "email": null,
+            "situacao_especial": null,
+            "data_situacao_especial": null,
+            "atualizado_em": "2023-08-12T03:00:00.000Z",
+            "atividade_principal": {
+                "id": "6462000",
+                "secao": "K",
+                "divisao": "64",
+                "grupo": "64.6",
+                "classe": "64.62-0",
+                "subclasse": "6462-0/00",
+                "descricao": "Holdings de instituições não financeiras"
+            },
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            },
+            "estado": {
+                "id": 19,
+                "nome": "Rio de Janeiro",
+                "sigla": "RJ",
+                "ibge_id": 33
+            },
+            "cidade": {
+                "id": 3243,
+                "nome": "Rio de Janeiro",
+                "ibge_id": 3304557,
+                "siafi_id": "6001"
+            },
+            "motivo_situacao_cadastral": null,
+            "inscricoes_estaduais": [
+                {
+                    "inscricao_estadual": "79049859",
+                    "ativo": true,
+                    "atualizado_em": "2023-08-20T17:31:19.103Z",
+                    "estado": {
+                        "id": 19,
+                        "nome": "Rio de Janeiro",
+                        "sigla": "RJ",
+                        "ibge_id": 33
+                    }
+                }
+            ]
+        }
+    }
+]
