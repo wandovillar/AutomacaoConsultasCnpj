@@ -1,6 +1,6 @@
 "# AutomacaoConsultasCnpj" 
 
-Como Usar Usando o Executável
+Como Usar Usando o Executável ( Se encontra na pasta BUILD )
 
 **Preparação da Planilha:**
 
